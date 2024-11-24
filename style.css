@@ -421,7 +421,7 @@ footer p {
 
     .skill h2{
         font-size: 20px;
-        margin-bottom: 5rem;
+         margin: 5rem 0 0;
     }
 
     .skill h2 :nth-child(1){
