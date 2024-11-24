@@ -380,10 +380,10 @@ footer p {
 
     .About img{
         position: absolute;
-        top: 0%;
-        right: -4%;
-        width: 400px;
-        height: 400px;
+        top: 5%;
+        right: 2%;
+        width: 350px;
+        height: 350px;
     }
 
     .About p{
